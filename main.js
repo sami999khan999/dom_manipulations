@@ -15,7 +15,7 @@
 // const title2 = document.querySelector("#main-heading"); // id(#)
 // const countries = document.querySelectorAll(".country"); // class(.)
 // const input2 = document.querySelector(".btn");
-const list = document.querySelectorAll("li"); // tag()
+// const list = document.querySelectorAll("li"); // tag()
 
 // // querySelectorAll()
 // const listAll = document.querySelectorAll("li");
